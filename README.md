@@ -1,16 +1,14 @@
-### Hi there 👋
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=js,python,java,c)](https://skillicons.dev)
 
-<!--
-**gardeneda/gardeneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frameworks
+[![My Skills 2](https://skillicons.dev/icons?i=nodejs,express,react,redux,nextjs&theme=dark
+)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## Database
+[![My Skills 3](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql&theme=dark
+)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+[![My Skills 3](https://skillicons.dev/icons?i=git,postman,matlab,jest,bash&theme=dark
+)](https://skillicons.dev)
