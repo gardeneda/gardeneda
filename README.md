@@ -5,7 +5,7 @@
 [![My Skills 2](https://skillicons.dev/icons?i=nodejs,express,react,redux,nextjs&theme=dark
 )](https://skillicons.dev)
 
-## Database
+## Databases
 [![My Skills 3](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql&theme=dark
 )](https://skillicons.dev)
 
